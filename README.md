@@ -3,7 +3,7 @@
 Stable Diffusion XL training regularization images. Used during LoRA training to reinforce the underlying model and
 reduce overfitting.
 
-![Splash](1girl/f3e-1.0-7ae10902.png)
+![Splash](1girl/00000-sd_xl_base_1.0-3e3fe5774ff23a0cc24aba5939aa19c9a3d3270125bbaf1c69037cf640abb54f.jpg)
 
 |             |                                                                                                   |
 |-------------|---------------------------------------------------------------------------------------------------|
