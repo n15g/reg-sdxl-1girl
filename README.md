@@ -3,14 +3,14 @@
 Stable Diffusion XL training regularization images. Used during LoRA training to reinforce the underlying model and
 reduce overfitting.
 
-![Splash](1girl/00000-sd_xl_base_1.0-3e3fe5774ff23a0cc24aba5939aa19c9a3d3270125bbaf1c69037cf640abb54f.jpg)
+![Splash](1_1girl/00000-sd_xl_base_1.0-3e3fe5774ff23a0cc24aba5939aa19c9a3d3270125bbaf1c69037cf640abb54f.jpg)
 
 |             |                                                                                                   |
 |-------------|---------------------------------------------------------------------------------------------------|
 | Model       | [`stable-diffusion-xl-base-1.0`](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) |
 | Class Tag   | `1girl`                                                                                           |
-| Tags        | Booru - WD1.4                                                                                     |
-| Cardinality | 2019 images                                                                                       |
+| Tags        | Booru - WD1.4 `*.txt`                                                                             |
+| Cardinality | 2020 images                                                                                       |
 | VAE         | None                                                                                              |
 | Sampler     | DDIM                                                                                              |
 | Steps       | 20                                                                                                |
